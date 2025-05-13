@@ -1,5 +1,6 @@
 # TranslateAPI
-
+gerekli kütüphaneler
+pip install flask langdetect transformers torch sentencepiece
 
 endpoint: /translate
 gönderilen JSON
